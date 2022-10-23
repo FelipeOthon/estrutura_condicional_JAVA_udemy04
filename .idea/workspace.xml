@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7ec25f2-c58e-47bb-9a19-922f88a6b559" name="Changes" comment="" />
+    <list default="true" id="f7ec25f2-c58e-47bb-9a19-922f88a6b559" name="Changes" comment="enviar repositorio" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +12,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -54,8 +55,16 @@
       <workItem from="1665945447205" duration="2450000" />
       <workItem from="1666219793768" duration="623000" />
       <workItem from="1666542317136" duration="216000" />
-      <workItem from="1666542549868" duration="383000" />
+      <workItem from="1666542549868" duration="795000" />
     </task>
+    <task id="LOCAL-00001" summary="enviar repositorio">
+      <created>1666543173485</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666543173485</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,5 +80,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="enviar commit" />
+    <MESSAGE value="enviar repositorio" />
+    <option name="LAST_COMMIT_MESSAGE" value="enviar repositorio" />
+    <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
 </project>
